@@ -12,3 +12,12 @@ li {
 .liRight {
   float: right;
 }
+
+.footer {
+  position: fixed;
+
+  bottom: 5px;
+  width: 100%;
+  background-color: gray;
+  color: white;
+}
