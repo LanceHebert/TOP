@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+h1 {
+  padding-top: 109px;
+}
+li {
+  display: inline;
+  float: left;
+  padding: 8px;
+}
+.liRight {
+  float: right;
+}
